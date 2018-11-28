@@ -1,0 +1,30 @@
+.redemption {
+    width: 500px;
+}
+.collag {
+    width: 500px;
+}
+body {
+    text-align: center;
+    background: lightblue;
+}
+.GOTY {
+    font-family: 'VTFMisterPixelRegular'; 
+    color: darkred;
+}
+.wow {
+    font-family: 'Fredoka One', cursive;
+    color: white;
+}
+.school {
+    font-family: 'Caveat', cursive;
+    color: navy;
+}
+.album {
+    font-family: 'Poiret One', cursive;
+    color: purple;
+}
+.dance {
+    font-family: 'Alfa Slab One', cursive;
+    color: brown;
+}
