@@ -6,15 +6,17 @@
 }
 body {
     text-align: center;
-    background: lightblue;
+    background-image: url("https://media.giphy.com/media/AaeanOqPuenS0/giphy.gif");
 }
 .GOTY {
-    font-family: 'VTFMisterPixelRegular'; 
+    font-family: 'VTFMisterPixelRegular';
     color: darkred;
 }
 .wow {
     font-family: 'Fredoka One', cursive;
-    color: white;
+    color: gold;
+    border: outset 20px grey;
+    background: grey;
 }
 .school {
     font-family: 'Caveat', cursive;
@@ -26,5 +28,10 @@ body {
 }
 .dance {
     font-family: 'Alfa Slab One', cursive;
-    color: brown;
+    color: Blue;
+}
+.awards {
+    background-image: url("https://i.ibb.co/Gd99zwR/cool-background.png");
+    margin: 60px;
+    height: 100%;
 }
